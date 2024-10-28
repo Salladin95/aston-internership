@@ -3,7 +3,7 @@ function helloWorld() {
 }
 
 const str1 = "Hello, World!";
-const str2 = String("Hello, again!");
+const str2 = `${str1}`
 
 const num1 = 42;
 const num2 = Number(42);
