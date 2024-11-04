@@ -1,0 +1,1 @@
+structuredClone() — это встроенная функция JavaScript для создания глубокой копии объекта. Она поддерживает более сложные структуры, таких как: Date, Set, Map, Error, RegExp, ArrayBuffer, Blob, File, ImageData и т.д.
